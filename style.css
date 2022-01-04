@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+body{
+    font-family: 'Pushster', cursive
+}
+h1{
+    font-size: 50px;
+    line-height: 100px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 70%;
+   border-radius: 600px;
+}
+
+.btn1{
+    text-decoration: none;
+    background-color: orange;
+    color:black;
+    padding-left: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 10px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
